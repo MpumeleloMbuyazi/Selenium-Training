@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5bd9d750-4750-4708-9c49-36cfcb33c5e5" name="Default Changelist" comment="" />
+    <list default="true" id="5bd9d750-4750-4708-9c49-36cfcb33c5e5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Day1/FirstSeleniumScript.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Day1/FirstSeleniumScript.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Day1/FirstSeleniumScript.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Day1/FirstSeleniumScript.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +19,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1hEKUqhcxwPx1v6vJ1nDTB65P7l" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -22,6 +31,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/Resources" />
   </component>
   <component name="RecentsManager">
@@ -29,9 +39,16 @@
       <recent name="C:\Users\mdube\Documents\Selenium-Training\Resources" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.SecondSeleniumScript">
     <configuration name="FirstSeleniumScript" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Day1.FirstSeleniumScript" />
+      <module name="Selenium-Training" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SecondSeleniumScript" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day2.SecondSeleniumScript" />
       <module name="Selenium-Training" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -43,6 +60,10 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Application.FirstSeleniumScript" />
+      <item itemvalue="Application.SecondSeleniumScript" />
+    </list>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -58,29 +79,29 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="137" y="20" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1599571813155">
+    <state x="137" y="20" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1599746047274">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="137" y="20" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728/1366.0.1280.680@0.0.1366.728" timestamp="1599571813155" />
-    <state x="412" y="149" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1599571799447">
+    <state x="137" y="20" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728/1366.0.1280.680@0.0.1366.728" timestamp="1599746047274" />
+    <state x="412" y="149" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1599746043993">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="412" y="149" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1366.728/1366.0.1280.680@0.0.1366.728" timestamp="1599571799447" />
-    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1599573011813">
+    <state x="412" y="149" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1366.728/1366.0.1280.680@0.0.1366.728" timestamp="1599746043993" />
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1599746052563">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1280.680@0.0.1366.728" timestamp="1599573011813" />
-    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1599573011813">
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1280.680@0.0.1366.728" timestamp="1599746052563" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1599746052563">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1280.680@0.0.1366.728" timestamp="1599573011813" />
-    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1599573011813">
+    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1280.680@0.0.1366.728" timestamp="1599746052563" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1599746052563">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1280.680@0.0.1366.728" timestamp="1599573011813" />
-    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1599573011813">
+    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1280.680@0.0.1366.728" timestamp="1599746052563" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1599746052563">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1280.680@0.0.1366.728" timestamp="1599573011813" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1280.680@0.0.1366.728" timestamp="1599746052563" />
   </component>
 </project>

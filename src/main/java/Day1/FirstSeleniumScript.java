@@ -14,7 +14,7 @@ public class FirstSeleniumScript {
         //Create a new instance of the Chrome driver
         driver = new ChromeDriver();
 
-        String URL = "http://automationpractice.com ";
+        String URL = "http://automationpractice.com";
         driver.get(URL);
 
         //Maximize chrome browser
@@ -33,7 +33,7 @@ public class FirstSeleniumScript {
         if(actualURL.contains(URL)){
 
             System.out.println("Pass");
-            
+
         }else {
 
             System.out.println("Fail");
