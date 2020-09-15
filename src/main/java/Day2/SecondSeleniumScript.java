@@ -8,12 +8,16 @@ import org.openqa.selenium.interactions.Action;
 import org.openqa.selenium.interactions.Actions;
 import org.openqa.selenium.support.ui.Select;
 
+
 import java.io.File;
 import java.util.concurrent.TimeUnit;
 
 public class SecondSeleniumScript {
 
+
     public static void main(String[] args) {
+
+
 
         WebDriver driver;
 
