@@ -36,14 +36,14 @@ public class MyStoreTC1 {
 
     }
 
-    @Test(priority = 1, dependsOnMethods = {"urlTest"}, alwaysRun = true)
+    @Test(priority = 1)
     public void logoTest(){
 
         WebElement logo = driver.findElement(By.xpath("//img[@class='logo img-responsive']"));
         Assert.assertTrue(logo.isDisplayed(), "Logo is not displayed");
     }
 
-    @Test(priority = 0, enabled = false)
+    @Test(priority = 0)
     public void titleTest(){
 
         //Storing title name in the String variable

@@ -2,13 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5bd9d750-4750-4708-9c49-36cfcb33c5e5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Day2/SecondSeleniumScript.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Day2/SecondSeleniumScript.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Day3/MyStoreTC1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Day3/MyStoreTC1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/Day1/FirstSeleniumScript.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Day1/FirstSeleniumScript.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Day2/AnnotationScript.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Day2/AnnotationScript.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/Day2/SecondSeleniumScript.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Day2/SecondSeleniumScript.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Day3/MyStoreTC1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Day3/MyStoreTC1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/Selenium-Training.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/emailable-report.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/emailable-report.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -183,22 +187,22 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="120" key="FileChooserDialogImpl/0.0.1366.728/1366.0.1280.680@0.0.1366.728" timestamp="1600088706936" />
-    <state width="1323" height="187" key="GridCell.Tab.0.bottom" timestamp="1600177640566">
+    <state width="1323" height="187" key="GridCell.Tab.0.bottom" timestamp="1600335368078">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="187" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1280.680@0.0.1366.728" timestamp="1600177640566" />
-    <state width="1323" height="187" key="GridCell.Tab.0.center" timestamp="1600177640566">
+    <state width="1323" height="187" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1280.680@0.0.1366.728" timestamp="1600335368078" />
+    <state width="1323" height="187" key="GridCell.Tab.0.center" timestamp="1600335368078">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="187" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1280.680@0.0.1366.728" timestamp="1600177640566" />
-    <state width="1323" height="187" key="GridCell.Tab.0.left" timestamp="1600177640566">
+    <state width="1323" height="187" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1280.680@0.0.1366.728" timestamp="1600335368078" />
+    <state width="1323" height="187" key="GridCell.Tab.0.left" timestamp="1600335368078">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="187" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1280.680@0.0.1366.728" timestamp="1600177640566" />
-    <state width="1323" height="187" key="GridCell.Tab.0.right" timestamp="1600177640566">
+    <state width="1323" height="187" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1280.680@0.0.1366.728" timestamp="1600335368078" />
+    <state width="1323" height="187" key="GridCell.Tab.0.right" timestamp="1600335368078">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="187" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1280.680@0.0.1366.728" timestamp="1600177640566" />
+    <state width="1323" height="187" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1280.680@0.0.1366.728" timestamp="1600335368078" />
     <state x="213" y="20" key="Maven.ArtifactSearchDialog" timestamp="1600090000568">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
