@@ -3,16 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="5bd9d750-4750-4708-9c49-36cfcb33c5e5" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Resources/chromedriver.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Day1/FirstSeleniumScript.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Day1/FirstSeleniumScript.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Day3/MyStoreTC1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Day3/MyStoreTC1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Day1/FirstSeleniumScript.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Day1/FirstSeleniumScript.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Day2/AnnotationScript.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Day2/AnnotationScript.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Day2/SecondSeleniumScript.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Day2/SecondSeleniumScript.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Day3/MyStoreTC1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Day3/MyStoreTC1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/emailable-report.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/emailable-report.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/testng.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +39,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Resources" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../StandardBank-Interview" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -175,9 +165,25 @@
       <option name="presentableId" value="Default" />
       <updated>1599570829056</updated>
     </task>
+    <task id="LOCAL-00001" summary="added new files">
+      <created>1605717124452</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1605717124452</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="added new files" />
+    <option name="LAST_COMMIT_MESSAGE" value="added new files" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="1918" y="179" key="#Notifications" timestamp="1605717193985">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1918" y="179" key="#Notifications/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1605717193985" />
     <state x="392" y="12" key="#Test" timestamp="1600088550501">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -208,14 +214,15 @@
       <screen x="1366" y="0" width="1920" height="1040" />
     </state>
     <state x="2059" y="210" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1605610807898" />
-    <state x="1951" y="115" key="CommitChangelistDialog2" timestamp="1605717034507">
+    <state x="1951" y="115" key="CommitChangelistDialog2" timestamp="1605717123550">
       <screen x="1366" y="0" width="1920" height="1040" />
     </state>
-    <state x="1951" y="115" key="CommitChangelistDialog2/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1605717034507" />
-    <state x="463" y="120" key="FileChooserDialogImpl" timestamp="1600867717499">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state x="1951" y="115" key="CommitChangelistDialog2/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1605717123550" />
+    <state x="2017" y="171" key="FileChooserDialogImpl" timestamp="1605717728131">
+      <screen x="1366" y="0" width="1920" height="1040" />
     </state>
     <state x="463" y="120" key="FileChooserDialogImpl/0.0.1366.728/1366.0.1280.680@0.0.1366.728" timestamp="1600867717499" />
+    <state x="2017" y="171" key="FileChooserDialogImpl/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1605717728131" />
     <state width="1877" height="355" key="GridCell.Tab.0.bottom" timestamp="1605630863025">
       <screen x="1366" y="0" width="1920" height="1040" />
     </state>
@@ -246,6 +253,10 @@
     <state x="163" y="0" key="SettingsEditor/0.0.1366.728/1366.0.1280.680@0.0.1366.728" timestamp="1600176891685" />
     <state x="1519" y="0" key="SettingsEditor/0.0.1366.728/1366.0.1280.680@1366.0.1280.680" timestamp="1603214105853" />
     <state x="1596" y="0" key="SettingsEditor/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1605611840135" />
+    <state x="1918" y="254" key="Vcs.Push.Dialog.v2" timestamp="1605717128648">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1918" y="254" key="Vcs.Push.Dialog.v2/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1605717128648" />
     <state x="1899" y="270" key="com.intellij.ide.util.TipDialog" timestamp="1605611168369">
       <screen x="1366" y="0" width="1920" height="1040" />
     </state>
