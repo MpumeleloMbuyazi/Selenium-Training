@@ -22,6 +22,7 @@ public class MyStoreTC1{
             System.setProperty("webdriver.chrome.driver", "C:\\Users\\mdube\\Documents\\Selenium-Training\\Resources\\chromedriver.exe");
             //Create a new instance of the Chrome driver
             driver = new ChromeDriver();
+            driver.manage().window().maximize();
         }else if (browser.equalsIgnoreCase("firefox")){
 
             System.setProperty("webdriver.gecko.driver", "C:\\Users\\mdube\\Documents\\Selenium-Training\\Resources\\geckodriver.exe");
@@ -60,7 +61,7 @@ public class MyStoreTC1{
         String actualURL = driver.getCurrentUrl();
 
         //Verify that the urls match by printing a message
-       Assert.assertEquals(actualURL, URL, "URL's don't match");
+       Assert.assertEquals(actualURL, "http://automationpractice.com/index.php", "URL's don't match");
 
     }
 

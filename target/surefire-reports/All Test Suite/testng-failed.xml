@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
-<suite guice-stage="DEVELOPMENT" verbose="0" name="Failed suite [All Test Suite]">
+<suite name="Failed suite [All Test Suite]" guice-stage="DEVELOPMENT" verbose="0">
   <parameter name="browser" value="chrome"/>
-  <test thread-count="5" verbose="0" name="C:/Users/mdube/Documents/Selenium-Training(failed)">
+  <test thread-count="5" name="C:/Users/mdube/Documents/Selenium-Training(failed)" verbose="0">
     <classes>
       <class name="Day3.MyStoreTC1">
         <methods>
