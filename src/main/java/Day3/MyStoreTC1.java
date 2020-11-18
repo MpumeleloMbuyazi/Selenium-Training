@@ -8,7 +8,7 @@ import org.openqa.selenium.firefox.FirefoxDriver;
 import org.testng.Assert;
 import org.testng.annotations.*;
 
-public class MyStoreTC1 {
+public class MyStoreTC1{
 
     WebDriver driver;
     String URL = "http://automationpractice.com";

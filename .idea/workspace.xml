@@ -3,16 +3,16 @@
   <component name="ChangeListManager">
     <list default="true" id="5bd9d750-4750-4708-9c49-36cfcb33c5e5" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/chromedriver.exe" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Day1/FirstSeleniumScript.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Day1/FirstSeleniumScript.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Day3/MyStoreTC1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Day3/MyStoreTC1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/Day1/FirstSeleniumScript.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Day1/FirstSeleniumScript.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/Day2/AnnotationScript.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Day2/AnnotationScript.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/Day2/SecondSeleniumScript.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Day2/SecondSeleniumScript.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/Day3/MyStoreTC1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Day3/MyStoreTC1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/Selenium-Training.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test-output/emailable-report.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/emailable-report.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/testng.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,6 +28,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -37,7 +38,9 @@
     </option>
   </component>
   <component name="ProjectId" id="1hEKUqhcxwPx1v6vJ1nDTB65P7l" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -57,7 +60,7 @@
       <recent name="C:\Users\mdube\Documents\Selenium-Training\Resources" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.C:/Users/mdube/Documents/Selenium-Training/testng.xml">
+  <component name="RunManager" selected="JUnit.TestRunner">
     <configuration name="FirstSeleniumScript" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Day1.FirstSeleniumScript" />
       <module name="Selenium-Training" />
@@ -74,6 +77,17 @@
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="Day1.FirstSeleniumScript" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestRunner" type="JUnit" factoryName="JUnit">
+      <module name="Selenium-Training" />
+      <option name="PACKAGE_NAME" value="MyTestRunner" />
+      <option name="MAIN_CLASS_NAME" value="MyTestRunner.TestRunner" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="PARAMETERS" value="" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -139,6 +153,7 @@
     <list>
       <item itemvalue="Application.FirstSeleniumScript" />
       <item itemvalue="Application.SecondSeleniumScript" />
+      <item itemvalue="JUnit.TestRunner" />
       <item itemvalue="TestNG.AnnotationScript" />
       <item itemvalue="TestNG.MyStoreTC1" />
       <item itemvalue="TestNG.C:/Users/mdube/Documents/Selenium-Training/testng.xml" />
@@ -171,53 +186,88 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="413" y="120" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1366.728/1366.0.1280.680@0.0.1366.728" timestamp="1600094263054" />
-    <state x="137" y="20" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1600177633179">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state x="1559" y="29" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1605622815167">
+      <screen x="1366" y="0" width="1920" height="1040" />
     </state>
-    <state x="137" y="20" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728/1366.0.1280.680@0.0.1366.728" timestamp="1600177633179" />
+    <state x="137" y="20" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728/1366.0.1280.680@0.0.1366.728" timestamp="1602837900444" />
+    <state x="1559" y="29" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1605622815167" />
     <state x="92" y="92" width="1182" height="544" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1600115762330">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="92" y="92" width="1182" height="544" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1366.728/1366.0.1280.680@0.0.1366.728" timestamp="1600115762330" />
-    <state x="412" y="149" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1600177623415">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state x="2077" y="324" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1605610570714">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2077" y="324" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1605610570714" />
+    <state x="1945" y="213" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1605622813327">
+      <screen x="1366" y="0" width="1920" height="1040" />
     </state>
     <state x="412" y="149" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1366.728/1366.0.1280.680@0.0.1366.728" timestamp="1600177623415" />
-    <state x="463" y="120" key="FileChooserDialogImpl" timestamp="1600088706936">
+    <state x="1945" y="213" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1605622813327" />
+    <state x="2059" y="210" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1605610807898">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2059" y="210" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1605610807898" />
+    <state x="1951" y="115" key="CommitChangelistDialog2" timestamp="1605717034507">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1951" y="115" key="CommitChangelistDialog2/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1605717034507" />
+    <state x="463" y="120" key="FileChooserDialogImpl" timestamp="1600867717499">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="463" y="120" key="FileChooserDialogImpl/0.0.1366.728/1366.0.1280.680@0.0.1366.728" timestamp="1600088706936" />
-    <state width="1323" height="187" key="GridCell.Tab.0.bottom" timestamp="1600335368078">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state x="463" y="120" key="FileChooserDialogImpl/0.0.1366.728/1366.0.1280.680@0.0.1366.728" timestamp="1600867717499" />
+    <state width="1877" height="355" key="GridCell.Tab.0.bottom" timestamp="1605630863025">
+      <screen x="1366" y="0" width="1920" height="1040" />
     </state>
     <state width="1323" height="187" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1280.680@0.0.1366.728" timestamp="1600335368078" />
-    <state width="1323" height="187" key="GridCell.Tab.0.center" timestamp="1600335368078">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="1877" height="355" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1605630863025" />
+    <state width="1877" height="355" key="GridCell.Tab.0.center" timestamp="1605630863025">
+      <screen x="1366" y="0" width="1920" height="1040" />
     </state>
     <state width="1323" height="187" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1280.680@0.0.1366.728" timestamp="1600335368078" />
-    <state width="1323" height="187" key="GridCell.Tab.0.left" timestamp="1600335368078">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="1877" height="355" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1605630863024" />
+    <state width="1877" height="355" key="GridCell.Tab.0.left" timestamp="1605630863024">
+      <screen x="1366" y="0" width="1920" height="1040" />
     </state>
     <state width="1323" height="187" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1280.680@0.0.1366.728" timestamp="1600335368078" />
-    <state width="1323" height="187" key="GridCell.Tab.0.right" timestamp="1600335368078">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="1877" height="355" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1605630863024" />
+    <state width="1877" height="355" key="GridCell.Tab.0.right" timestamp="1605630863025">
+      <screen x="1366" y="0" width="1920" height="1040" />
     </state>
     <state width="1323" height="187" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1280.680@0.0.1366.728" timestamp="1600335368078" />
+    <state width="1877" height="355" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1605630863025" />
     <state x="213" y="20" key="Maven.ArtifactSearchDialog" timestamp="1600090000568">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="213" y="20" key="Maven.ArtifactSearchDialog/0.0.1366.728/1366.0.1280.680@0.0.1366.728" timestamp="1600090000568" />
-    <state x="163" y="0" key="SettingsEditor" timestamp="1600176891685">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state x="1596" y="0" key="SettingsEditor" timestamp="1605611840135">
+      <screen x="1366" y="0" width="1920" height="1040" />
     </state>
     <state x="163" y="0" key="SettingsEditor/0.0.1366.728/1366.0.1280.680@0.0.1366.728" timestamp="1600176891685" />
-    <state x="379" y="189" key="com.intellij.ide.util.TipDialog" timestamp="1600071698547">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state x="1519" y="0" key="SettingsEditor/0.0.1366.728/1366.0.1280.680@1366.0.1280.680" timestamp="1603214105853" />
+    <state x="1596" y="0" key="SettingsEditor/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1605611840135" />
+    <state x="1899" y="270" key="com.intellij.ide.util.TipDialog" timestamp="1605611168369">
+      <screen x="1366" y="0" width="1920" height="1040" />
     </state>
-    <state x="379" y="189" key="com.intellij.ide.util.TipDialog/0.0.1366.728/1366.0.1280.680@0.0.1366.728" timestamp="1600071698547" />
+    <state x="379" y="189" key="com.intellij.ide.util.TipDialog/0.0.1366.728/1366.0.1280.680@0.0.1366.728" timestamp="1603102675872" />
+    <state x="1721" y="177" key="com.intellij.ide.util.TipDialog/0.0.1366.728/1366.0.1280.680@1366.0.1280.680" timestamp="1604740847322" />
+    <state x="1899" y="270" key="com.intellij.ide.util.TipDialog/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1605611168369" />
+    <state x="379" y="189" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1605087266565" />
+    <state x="2135" y="438" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1605717003082">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2135" y="438" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1605717003082" />
+    <state x="1708" y="216" key="new project wizard" timestamp="1605609525631">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1708" y="216" key="new project wizard/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1605609525631" />
     <state x="339" y="162" key="run.anything.popup" timestamp="1600095098582">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="339" y="162" key="run.anything.popup/0.0.1366.728/1366.0.1280.680@0.0.1366.728" timestamp="1600095098582" />
+    <state x="1989" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1605621923285">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1989" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1605621923285" />
   </component>
 </project>
