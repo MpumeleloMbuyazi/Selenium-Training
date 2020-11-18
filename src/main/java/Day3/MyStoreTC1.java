@@ -13,8 +13,8 @@ public class MyStoreTC1{
     WebDriver driver;
     String URL = "http://automationpractice.com";
 
-    @BeforeMethod
     @Parameters({"browser"})
+    @BeforeMethod
     public void openBrowser(String browser){
 
         if(browser.equalsIgnoreCase("chrome")){
@@ -43,7 +43,7 @@ public class MyStoreTC1{
         Assert.assertTrue(logo.isDisplayed(), "Logo is not displayed");
     }
 
-    @Test(priority = 0)
+    @Test
     public void titleTest(){
 
         //Storing title name in the String variable
